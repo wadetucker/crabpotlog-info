@@ -37,9 +37,9 @@ Logs and photographs remain in local app storage until that data is removed. Pic
 
 ## Support and privacy questions
 
-Contact CrabPotLog support through [CrabPotLog support Issues](https://github.com/wadetucker/crabpotlog-info/issues). Issues are public: do not post precise pot locations, private photographs, payment details or sensitive personal information. Start with a general question.
+Contact support and ask privacy questions at [tucker.programming@gmail.com](mailto:tucker.programming@gmail.com). On iPhone, More → Contact Support prepares an email with a message placeholder, device model/hardware identifier (not a serial number or tracking identifier), iOS version and app version/build. Review or edit the draft before choosing to send. Nothing is sent automatically; logs, GPS coordinates and photos are not automatically attached.
 
-Support messages, GitHub usernames and attachments you submit are visible to the developer and GitHub to address your request. Public posts may remain available or be copied by others. Ask through the same channel about removing developer-controlled support content; GitHub controls its own platform records.
+Support emails and anything you choose to include are received by support and processed by email providers to address your request. Avoid unnecessary sensitive information. Email support with questions about removing developer-held support correspondence; providers control their own records.
 
 ## This website
 
@@ -47,6 +47,6 @@ This static site is hosted on GitHub Pages. It includes no tracking scripts, adv
 
 ## Children and changes
 
-CrabPotLog is a general-purpose fishing log, not a service intended to collect children's information. Do not post children's personal information in public support requests. Parents or guardians can use the support link for questions.
+CrabPotLog is a general-purpose fishing log, not a service intended to collect children's information. Avoid including children's personal information in support messages. Parents or guardians can use the support link for questions.
 
 If information handling changes, this policy will be updated with a new date. Apple, GitHub and sharing destinations have their own policies.
