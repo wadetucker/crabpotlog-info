@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Developer: Wade Tucker
+Developer: CrabPotLog
 Effective and updated: 5 October 2026
 
 CrabPotLog is a local-first crab-pot log for iPhone and Apple Watch. This policy explains information handled by the app and this website.
@@ -37,7 +37,7 @@ Logs and photographs remain in local app storage until that data is removed. Pic
 
 ## Support and privacy questions
 
-Contact Wade Tucker through [CrabPotLog support Issues](https://github.com/wadetucker/crabpotlog-info/issues). Issues are public: do not post precise pot locations, private photographs, payment details or sensitive personal information. Start with a general question.
+Contact CrabPotLog support through [CrabPotLog support Issues](https://github.com/wadetucker/crabpotlog-info/issues). Issues are public: do not post precise pot locations, private photographs, payment details or sensitive personal information. Start with a general question.
 
 Support messages, GitHub usernames and attachments you submit are visible to the developer and GitHub to address your request. Public posts may remain available or be copied by others. Ask through the same channel about removing developer-controlled support content; GitHub controls its own platform records.
 
